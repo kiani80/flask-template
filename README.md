@@ -8,5 +8,5 @@ for windows `./env/Scripts/activate`<br>
 `pip install -r requirements.txt`<br>
 4.connect project to database<br>
 `flask db upgrade`
-5. run
+5.run<br>
 `python3 app.py runserver`
