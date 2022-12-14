@@ -7,6 +7,6 @@ for windows `./env/Scripts/activate`<br>
 3.Install requirements<br>
 `pip install -r requirements.txt`<br>
 4.connect project to database<br>
-`flask db upgrade`
+`flask db upgrade`<br>
 5.run<br>
 `python3 app.py runserver`
